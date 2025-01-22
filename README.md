@@ -75,7 +75,7 @@ This command will:
 - Start the containers for all services.
 
 ### 3. Access the Application
-- **Frontend**: [http://localhost](http://localhost)
+- **Frontend**: [http://localhost:80](http://localhost)
 - **Backend API**: [http://localhost:5000/api/todos](http://localhost:5000/api/todos)
 
 ---
